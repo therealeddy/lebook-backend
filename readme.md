@@ -26,7 +26,7 @@ API of the e-book platform, developed in NodeJS, Express and MongoDB.
 
 ## Logical Model
 
-![WebView](view.png)
+![der](docs/der.png)
 
 <br><br>
 
