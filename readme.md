@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Lebook Backend 🚀
+ 💻 Lebook Backend 💻
 </h1>
 
 <br>
