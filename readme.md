@@ -1,12 +1,12 @@
 <h1 align="center">
-  🚀 Lebook Back-End 🚀
+ 💻 Lebook Backend 💻
 </h1>
 
 <br>
 
 <div align="center">
 
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/therealeddy/lebook-backend/releases)<space><space>
+[![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/therealeddy/lebook-backend/releases)<space><space>
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](#overview)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## Overview
 
-API of the e-book platform, developed in NodeJS, Express and MongoDB.
+API of the e-book platform, developed in Node, Express and MongoDB.
 
 - **[Logical Model](#logical-model)**
 - **[Author](#author)**
